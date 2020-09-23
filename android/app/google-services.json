@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "334517537423",
+    "firebase_url": "https://smaple01-dfdc7.firebaseio.com",
+    "project_id": "smaple01-dfdc7",
+    "storage_bucket": "smaple01-dfdc7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334517537423:android:c467ca4a0eaed4797d3efa",
+        "android_client_info": {
+          "package_name": "com.example.spotify_UI"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334517537423-0i7hcni5ujj0itie0h438072npq452o3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMEEE7GXvLDKDc7ROzI17wMnITgRoUENQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334517537423-0i7hcni5ujj0itie0h438072npq452o3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
