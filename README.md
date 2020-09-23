@@ -1,4 +1,4 @@
-# spotify_UI
+# Flutter spotify_UI
 
 A new Flutter project.
 
