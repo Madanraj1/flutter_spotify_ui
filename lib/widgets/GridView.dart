@@ -43,8 +43,10 @@ class _GridViewListState extends State<GridViewList> {
                         padding: const EdgeInsets.all(8.0),
                         child: Text(
                           "Maha Bharat with Druv rathee",
-                          style:
-                              TextStyle(color: Colors.grey[200], fontSize: 12),
+                          style: TextStyle(
+                              color: Colors.grey[200],
+                              fontSize: 12,
+                              fontWeight: FontWeight.bold),
                         ),
                       ),
                     )
@@ -71,7 +73,10 @@ class _GridViewListState extends State<GridViewList> {
                       padding: const EdgeInsets.all(8.0),
                       child: Text(
                         "Top Ever Green Bollywood",
-                        style: TextStyle(color: Colors.grey[200], fontSize: 12),
+                        style: TextStyle(
+                            color: Colors.grey[200],
+                            fontSize: 12,
+                            fontWeight: FontWeight.bold),
                       ),
                     ),
                   )
@@ -101,7 +106,10 @@ class _GridViewListState extends State<GridViewList> {
                       padding: const EdgeInsets.all(8.0),
                       child: Text(
                         "Best of Eminem",
-                        style: TextStyle(color: Colors.grey[200], fontSize: 12),
+                        style: TextStyle(
+                            color: Colors.grey[200],
+                            fontSize: 12,
+                            fontWeight: FontWeight.bold),
                       ),
                     ),
                   )
@@ -127,7 +135,10 @@ class _GridViewListState extends State<GridViewList> {
                       padding: const EdgeInsets.all(8.0),
                       child: Text(
                         "Machine Gun Kelly",
-                        style: TextStyle(color: Colors.grey[200], fontSize: 12),
+                        style: TextStyle(
+                            color: Colors.grey[200],
+                            fontSize: 12,
+                            fontWeight: FontWeight.bold),
                       ),
                     ),
                   )
@@ -157,7 +168,10 @@ class _GridViewListState extends State<GridViewList> {
                       padding: const EdgeInsets.all(8.0),
                       child: Text(
                         "Daily Mix2",
-                        style: TextStyle(color: Colors.grey[200], fontSize: 12),
+                        style: TextStyle(
+                            color: Colors.grey[200],
+                            fontSize: 12,
+                            fontWeight: FontWeight.bold),
                       ),
                     ),
                   )
@@ -183,7 +197,10 @@ class _GridViewListState extends State<GridViewList> {
                       padding: const EdgeInsets.all(8.0),
                       child: Text(
                         "Daily Playlist",
-                        style: TextStyle(color: Colors.grey[200], fontSize: 12),
+                        style: TextStyle(
+                            color: Colors.grey[200],
+                            fontSize: 12,
+                            fontWeight: FontWeight.bold),
                       ),
                     ),
                   )

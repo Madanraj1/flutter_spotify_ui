@@ -3,7 +3,7 @@ import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:spotify_UI/screens/homeScreen.dart';
 import 'package:spotify_UI/screens/premiumScreen.dart';
 import 'package:spotify_UI/screens/searchScreen.dart';
-import 'package:spotify_UI/screens/yourLibrary.dart';
+import 'package:spotify_UI/screens/Library/yourLibrary.dart';
 
 class HomePage extends StatefulWidget {
   @override
