@@ -30,7 +30,9 @@ class _HomeScreenState extends State<HomeScreen> {
                         Icons.settings,
                         color: Colors.white,
                       ),
-                      onPressed: () {},
+                      onPressed: () {
+                        Navigator.pushNamed(context, "/myProfile");
+                      },
                     ),
                   ),
                   GridViewList(),

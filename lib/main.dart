@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:spotify_UI/screens/ProfileScreen.dart';
 import 'package:spotify_UI/screens/homeTabbar.dart';
 
 main() {
@@ -15,6 +16,9 @@ class MyApp extends StatelessWidget {
           tabBarTheme: TabBarTheme(labelColor: Colors.green)),
       title: "Spotify",
       home: HomePage(),
+      routes: {
+        '/myProfile': (context) => MyProfile(),
+      },
     );
   }
 }
