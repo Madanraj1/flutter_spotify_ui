@@ -13,10 +13,14 @@ class _HomeScreenState extends State<HomeScreen> {
   Widget build(BuildContext context) {
     return Container(
         decoration: BoxDecoration(
-            gradient: LinearGradient(colors: [
-          Color(0xff4f4f4f),
-          Color(0xff121212),
-        ], begin: Alignment.topLeft, end: FractionalOffset(0.1, 0.3))),
+            gradient: LinearGradient(
+          colors: [
+            Color(0xff4f4f4f),
+            Color(0xff121212),
+          ],
+          begin: Alignment.topLeft,
+          end: FractionalOffset(0.1, 0.3),
+        )),
         child: Padding(
           padding: const EdgeInsets.all(10.0),
           child: ListView(
